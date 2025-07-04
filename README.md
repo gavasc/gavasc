@@ -25,7 +25,7 @@ func main() {
 - **Elixir's Magic**: Actor models, fault tolerance, "let it crash" and functional programming
 - **Go's Simplicity**: Goroutines, channels, and the art of doing more with less: minimalism that just works
 - **Reading**: Always eager to learn new things
-- **Gaming**: I great refuge from reality
+- **Gaming**: A great refuge from reality
   
 ---
 
