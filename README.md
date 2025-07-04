@@ -29,7 +29,7 @@ func main() {
   
 ---
 
-- 🔭 Currently working on Data Analysis and Visualization, but always thinkering in programming
+- 🔭 Currently working on Data Analysis and Visualization, but always tinkering with programming
 - 📫 How to reach me: [Email](mailto:gavasc@proton.me) | [LinkedIn](https://www.linkedin.com/in/gavasc/?locale=en_US)
 
 <!--
