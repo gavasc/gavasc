@@ -30,7 +30,7 @@ func main() {
 ---
 
 - 🔭 Currently working on Data Analysis and Visualization, but always thinkering in programming
-- 📫 How to reach me: [Email](mailto:gavasc@proton.me) | [LinkedIn](linkedin.com/in/gavasc)
+- 📫 How to reach me: [Email](mailto:gavasc@proton.me) | [LinkedIn](https://www.linkedin.com/in/gavasc/?locale=en_US)
 
 <!--
 **gavasc/gavasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
