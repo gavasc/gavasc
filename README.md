@@ -1,4 +1,36 @@
-## Hi there 👋
+# Hi there 👋
+
+## 🧪Currently Brewing In My Digital Lab
+These days, you'll find me deep in the rabbit holes of Elixir and Go – two languages that couldn't be more different, yet somehow both make my brain light up in the best way possible.
+
+``` elixir
+defmodule CuriosityEngine do
+  def tinker(language) when language in [:elixir, :go] do
+    {:ok, "Another late night ahead!"}
+  end
+end
+```
+
+``` go
+gofunc main() {
+    curiosity := "insatiable"
+    if curiosity == "insatiable" {
+        fmt.Println("Time to build something weird and wonderful!")
+    }
+}
+```
+
+## 🎯What Gets Me Excited
+
+- **Elixir's Magic**: Actor models, fault tolerance, "let it crash" and functional programming
+- **Go's Simplicity**: Goroutines, channels, and the art of doing more with less: minimalism that just works
+- **Reading**: Always eager to learn new things
+- **Gaming**: I great refuge from reality
+  
+---
+
+- 🔭 Currently working on Data Analysis and Visualization, but always thinkering in programming
+- 📫 How to reach me: [Email](mailto:gavasc@proton.me) | [LinkedIn](linkedin.com/in/gavasc)
 
 <!--
 **gavasc/gavasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
