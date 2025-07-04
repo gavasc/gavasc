@@ -12,7 +12,7 @@ end
 ```
 
 ``` go
-gofunc main() {
+func main() {
     curiosity := "insatiable"
     if curiosity == "insatiable" {
         fmt.Println("Time to build something weird and wonderful!")
