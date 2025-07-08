@@ -1,24 +1,7 @@
 # Hi there 👋
 
 ## 🧪Currently Brewing In My Digital Lab
-These days, you'll find me deep in the rabbit holes of Elixir and Go – two languages that couldn't be more different, yet somehow both make my brain light up in the best way possible.
-
-``` elixir
-defmodule CuriosityEngine do
-  def tinker(language) when language in [:elixir, :go] do
-    {:ok, "Another late night ahead!"}
-  end
-end
-```
-
-``` go
-func main() {
-    curiosity := "insatiable"
-    if curiosity == "insatiable" {
-        fmt.Println("Time to build something weird and wonderful!")
-    }
-}
-```
+These days, you'll find me deep in the rabbit holes of Elixir and Go, two languages that couldn't be more different, yet somehow both make my brain light up in the best way possible.
 
 ## 🎯What Gets Me Excited
 
