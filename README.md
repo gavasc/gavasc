@@ -5,7 +5,7 @@ These days, you'll find me deep in the rabbit holes of Elixir and Go, two langua
 
 ## 🎯What Gets Me Excited
 
-- **Elixir's Magic**: Actor models, fault tolerance, "let it crash" and functional programming
+- **Elixir's Magic**: Actor models, native concurrency, fault tolerance, "let it crash" and functional programming
 - **Go's Simplicity**: Goroutines, channels, and the art of doing more with less: minimalism that just works
 - **Reading**: Always eager to learn new things
 - **Gaming**: A great refuge from reality
